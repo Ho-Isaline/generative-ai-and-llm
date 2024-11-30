@@ -1,0 +1,11 @@
+name: llama_unsloth
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch-cuda=11.8
+  - torchaudio
+  - torchvision
+  - jupyter
+  - notebook
+prefix: /home/jj/miniconda3/envs/llama_unsloth

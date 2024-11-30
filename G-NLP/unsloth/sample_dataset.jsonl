@@ -1,0 +1,6 @@
+{"prompt": "Explain what Docker is.", "completion": "Docker is a platform that automates the deployment of applications inside lightweight, portable containers."}
+{"prompt": "What is the capital of France?", "completion": "The capital of France is Paris."}
+{"prompt": "How do you install Docker on Ubuntu?", "completion": "To install Docker on Ubuntu, you can follow these steps:\n1. Update the apt package index.\n2. Install the required packages.\n3. Add Docker’s official GPG key.\n4. Set up the stable repository.\n5. Install the Docker Engine."}
+{"prompt": "What is a neural network?", "completion": "A neural network is a series of algorithms that attempt to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates."}
+{"prompt": "What is the sum of 2 and 2?", "completion": "The sum of 2 and 2 is 4."}
+
